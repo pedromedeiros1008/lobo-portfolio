@@ -1,9 +1,7 @@
 <h1 align="center">
-  🐺Lobo Portfólio
+ Lobo Portfólio
 </h1>
 
 ![Demonstração do site](/lobo.png)
 
-Você pode abrir o website através do link abaixo.
-
-<a href="https://pedromedeiros1008.github.io/LoboPortfolio/" target="" alt="">Visitar projeto</a>
+<h4 align="center">Você pode acessar o website clicando <a href="https://pedromedeiros1008.github.io/LoboPortfolio/" target="" alt="">aqui</a>. 🚀 </h4>
